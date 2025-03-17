@@ -1,6 +1,6 @@
 Java Lab
 
-Este repositório contém diversos exercícios e projetos em Java, desenvolvidos como parte dos meus estudos e práticas.
+Este repositório contém diversos exercícios em Java, desenvolvidos como parte dos meus estudos e práticas.
 
 📁 Estrutura do Repositório
 

@@ -12,6 +12,11 @@ Cada pasta dentro deste repositório representa um exercício ou projeto diferen
 
 Descrição: Uma universidade oferece cursos em duas modalidades: presencial e online. O sistema acompanha os alunos, cursos e matérias, calculando as notas finais.
 
+
+<a href="https://github.com/leoLUIGY/Java-Lab/tree/master/Lab-Protecting-code">Lab: Protecting your code<a>
+
+Descrição: A classe Main oferece um menu para selecionar bebidas (Espresso ou Latte), criando objetos e chamando métodos específicos, lançando exceções.
+
 📚 Tecnologias Utilizadas
 
 Java
